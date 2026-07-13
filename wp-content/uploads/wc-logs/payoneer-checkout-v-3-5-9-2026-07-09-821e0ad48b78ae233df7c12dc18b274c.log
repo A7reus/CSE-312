@@ -1,0 +1,10 @@
+2026-07-09T08:22:01+00:00 INFO Started creating list session.
+2026-07-09T08:22:01+00:00 ERROR Failed to create LIST session: Failed to create list session. [caused by: Api request failed. Exception was caught when trying to send request: A valid URL was not provided. → A valid URL was not provided.] CONTEXT: {"exception":{}}
+2026-07-09T08:22:28+00:00 INFO Started creating list session.
+2026-07-09T08:22:28+00:00 ERROR Failed to create LIST session: Failed to create list session. [caused by: Api request failed. Exception was caught when trying to send request: A valid URL was not provided. → A valid URL was not provided.] CONTEXT: {"exception":{}}
+2026-07-09T08:22:52+00:00 INFO Started creating list session.
+2026-07-09T08:22:52+00:00 ERROR Failed to create LIST session: Failed to create list session. [caused by: Api request failed. Exception was caught when trying to send request: A valid URL was not provided. → A valid URL was not provided.] CONTEXT: {"exception":{}}
+2026-07-09T08:35:07+00:00 INFO Started creating list session.
+2026-07-09T08:35:07+00:00 ERROR Failed to create LIST session: Failed to create list session. [caused by: Api request failed. Exception was caught when trying to send request: A valid URL was not provided. → A valid URL was not provided.] CONTEXT: {"exception":{}}
+2026-07-09T08:35:10+00:00 INFO Started creating list session.
+2026-07-09T08:35:10+00:00 ERROR Failed to create LIST session: Failed to create list session. [caused by: Api request failed. Exception was caught when trying to send request: A valid URL was not provided. → A valid URL was not provided.] CONTEXT: {"exception":{}}

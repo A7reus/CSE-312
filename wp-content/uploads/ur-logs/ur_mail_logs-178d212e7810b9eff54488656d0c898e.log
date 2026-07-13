@@ -1,0 +1,335 @@
+2026-07-08T18:48:32+00:00 DEBUG Mail action ***wp_mail_failed*** triggered. Callback function :: ***ur_email_send_failed_handler()***
+2026-07-08T18:48:32+00:00 ERROR Mail send failed. Details:
+{
+    "reason": "Could not instantiate mail function.",
+    "to": [
+        "ganpachirokamaboko@gmail.com"
+    ],
+    "subject": "User Registration & Membership: Test email from kroy.com",
+    "headers": [],
+    "attachments": []
+}
+2026-07-08T18:50:46+00:00 NOTICE =============== Email Sending Start ================
+2026-07-08T18:50:46+00:00 DEBUG Email details:
+{
+    "to": "ganpachirokamaboko@gmail.com",
+    "subject": "Welcome to kroy.com!",
+    "template_id": null
+}
+2026-07-08T18:50:46+00:00 DEBUG Mail action ***wp_mail_failed*** triggered. Callback function :: ***ur_email_send_failed_handler()***
+2026-07-08T18:50:46+00:00 ERROR Mail send failed. Details:
+{
+    "reason": "Could not instantiate mail function.",
+    "to": [
+        "ganpachirokamaboko@gmail.com"
+    ],
+    "subject": "Welcome to kroy.com!",
+    "headers": [],
+    "attachments": [
+        ""
+    ]
+}
+2026-07-08T18:50:46+00:00 ERROR wp_mail() returned false. Email could not be sent.
+2026-07-08T18:50:46+00:00 NOTICE =============== Email Sending Start ================
+2026-07-08T18:50:46+00:00 DEBUG Email details:
+{
+    "to": "wp@wp.wp",
+    "subject": "A Member registration: bento ",
+    "template_id": null
+}
+2026-07-08T18:50:46+00:00 DEBUG Mail action ***wp_mail_failed*** triggered. Callback function :: ***ur_email_send_failed_handler()***
+2026-07-08T18:50:46+00:00 ERROR Mail send failed. Details:
+{
+    "reason": "Could not instantiate mail function.",
+    "to": [
+        "wp@wp.wp"
+    ],
+    "subject": "A Member registration: bento ",
+    "headers": [],
+    "attachments": [
+        ""
+    ]
+}
+2026-07-08T18:50:46+00:00 ERROR wp_mail() returned false. Email could not be sent.
+2026-07-09T06:44:31+00:00 DEBUG Mail action ***wp_mail_failed*** triggered. Callback function :: ***ur_email_send_failed_handler()***
+2026-07-09T06:44:31+00:00 ERROR Mail send failed. Details:
+{
+    "reason": "Could not instantiate mail function.",
+    "to": [
+        "ganpachirokamaboko@gmail.com"
+    ],
+    "subject": "You recently placed a bid on kroy.com",
+    "headers": [],
+    "attachments": []
+}
+2026-07-09T06:44:31+00:00 DEBUG Mail action ***wp_mail_failed*** triggered. Callback function :: ***ur_email_send_failed_handler()***
+2026-07-09T06:44:31+00:00 ERROR Mail send failed. Details:
+{
+    "reason": "Could not instantiate mail function.",
+    "to": [
+        "wp@wp.wp"
+    ],
+    "subject": "Bidder placed a bid on kroy.com",
+    "headers": [],
+    "attachments": []
+}
+2026-07-09T06:44:44+00:00 DEBUG Mail action ***wp_mail_failed*** triggered. Callback function :: ***ur_email_send_failed_handler()***
+2026-07-09T06:44:44+00:00 ERROR Mail send failed. Details:
+{
+    "reason": "Could not instantiate mail function.",
+    "to": [
+        "ganpachirokamaboko@gmail.com"
+    ],
+    "subject": "You recently placed a bid on kroy.com",
+    "headers": [],
+    "attachments": []
+}
+2026-07-09T06:44:44+00:00 DEBUG Mail action ***wp_mail_failed*** triggered. Callback function :: ***ur_email_send_failed_handler()***
+2026-07-09T06:44:44+00:00 ERROR Mail send failed. Details:
+{
+    "reason": "Could not instantiate mail function.",
+    "to": [
+        "wp@wp.wp"
+    ],
+    "subject": "Bidder placed a bid on kroy.com",
+    "headers": [],
+    "attachments": []
+}
+2026-07-09T06:44:44+00:00 DEBUG Mail action ***wp_mail_failed*** triggered. Callback function :: ***ur_email_send_failed_handler()***
+2026-07-09T06:44:44+00:00 ERROR Mail send failed. Details:
+{
+    "reason": "Could not instantiate mail function.",
+    "to": [
+        "ganpachirokamaboko@gmail.com"
+    ],
+    "subject": "Auction has been outbid on kroy.com",
+    "headers": [],
+    "attachments": []
+}
+2026-07-09T06:44:44+00:00 DEBUG Mail action ***wp_mail_failed*** triggered. Callback function :: ***ur_email_send_failed_handler()***
+2026-07-09T06:44:44+00:00 ERROR Mail send failed. Details:
+{
+    "reason": "Could not instantiate mail function.",
+    "to": [
+        "wp@wp.wp"
+    ],
+    "subject": "Auction has been outbid on kroy.com",
+    "headers": [],
+    "attachments": []
+}
+2026-07-09T06:47:37+00:00 NOTICE =============== Email Sending Start ================
+2026-07-09T06:47:37+00:00 DEBUG Email details:
+{
+    "to": "buyer@buyer.buyer",
+    "subject": "Welcome to kroy.com!",
+    "template_id": null
+}
+2026-07-09T06:47:37+00:00 DEBUG Mail action ***wp_mail_failed*** triggered. Callback function :: ***ur_email_send_failed_handler()***
+2026-07-09T06:47:37+00:00 ERROR Mail send failed. Details:
+{
+    "reason": "Could not instantiate mail function.",
+    "to": [
+        "buyer@buyer.buyer"
+    ],
+    "subject": "Welcome to kroy.com!",
+    "headers": [],
+    "attachments": [
+        ""
+    ]
+}
+2026-07-09T06:47:37+00:00 ERROR wp_mail() returned false. Email could not be sent.
+2026-07-09T06:47:37+00:00 NOTICE =============== Email Sending Start ================
+2026-07-09T06:47:37+00:00 DEBUG Email details:
+{
+    "to": "wp@wp.wp",
+    "subject": "A Member registration: buyer ",
+    "template_id": null
+}
+2026-07-09T06:47:37+00:00 DEBUG Mail action ***wp_mail_failed*** triggered. Callback function :: ***ur_email_send_failed_handler()***
+2026-07-09T06:47:37+00:00 ERROR Mail send failed. Details:
+{
+    "reason": "Could not instantiate mail function.",
+    "to": [
+        "wp@wp.wp"
+    ],
+    "subject": "A Member registration: buyer ",
+    "headers": [],
+    "attachments": [
+        ""
+    ]
+}
+2026-07-09T06:47:37+00:00 ERROR wp_mail() returned false. Email could not be sent.
+2026-07-09T06:48:31+00:00 NOTICE =============== Email Sending Start ================
+2026-07-09T06:48:31+00:00 DEBUG Email details:
+{
+    "to": "seller@seller.seller",
+    "subject": "Welcome to kroy.com!",
+    "template_id": null
+}
+2026-07-09T06:48:31+00:00 DEBUG Mail action ***wp_mail_failed*** triggered. Callback function :: ***ur_email_send_failed_handler()***
+2026-07-09T06:48:31+00:00 ERROR Mail send failed. Details:
+{
+    "reason": "Could not instantiate mail function.",
+    "to": [
+        "seller@seller.seller"
+    ],
+    "subject": "Welcome to kroy.com!",
+    "headers": [],
+    "attachments": [
+        ""
+    ]
+}
+2026-07-09T06:48:31+00:00 ERROR wp_mail() returned false. Email could not be sent.
+2026-07-09T06:48:31+00:00 NOTICE =============== Email Sending Start ================
+2026-07-09T06:48:31+00:00 DEBUG Email details:
+{
+    "to": "wp@wp.wp",
+    "subject": "A Member registration: seller ",
+    "template_id": null
+}
+2026-07-09T06:48:31+00:00 DEBUG Mail action ***wp_mail_failed*** triggered. Callback function :: ***ur_email_send_failed_handler()***
+2026-07-09T06:48:31+00:00 ERROR Mail send failed. Details:
+{
+    "reason": "Could not instantiate mail function.",
+    "to": [
+        "wp@wp.wp"
+    ],
+    "subject": "A Member registration: seller ",
+    "headers": [],
+    "attachments": [
+        ""
+    ]
+}
+2026-07-09T06:48:31+00:00 ERROR wp_mail() returned false. Email could not be sent.
+2026-07-09T14:20:48+06:00 DEBUG Mail action ***wp_mail_failed*** triggered. Callback function :: ***ur_email_send_failed_handler()***
+2026-07-09T14:20:48+06:00 ERROR Mail send failed. Details:
+{
+    "reason": "Could not instantiate mail function.",
+    "to": [
+        "ganpachirokamaboko@gmail.com"
+    ],
+    "subject": "Congratulations! You have won an auction on kroy.com",
+    "headers": [],
+    "attachments": []
+}
+2026-07-09T14:20:48+06:00 DEBUG Mail action ***wp_mail_failed*** triggered. Callback function :: ***ur_email_send_failed_handler()***
+2026-07-09T14:20:48+06:00 ERROR Mail send failed. Details:
+{
+    "reason": "Could not instantiate mail function.",
+    "to": [
+        "wp@wp.wp"
+    ],
+    "subject": "Auction Product Won by User on kroy.com",
+    "headers": [],
+    "attachments": []
+}
+2026-07-09T14:33:38+06:00 DEBUG Mail action ***wp_mail_failed*** triggered. Callback function :: ***ur_email_send_failed_handler()***
+2026-07-09T14:33:38+06:00 ERROR Mail send failed. Details:
+{
+    "reason": "Could not instantiate mail function.",
+    "to": [
+        "wp@wp.wp"
+    ],
+    "subject": "[kroy.com] Payment gateway \"Direct bank transfer\" enabled",
+    "headers": [],
+    "attachments": []
+}
+2026-07-09T14:33:43+06:00 DEBUG Mail action ***wp_mail_failed*** triggered. Callback function :: ***ur_email_send_failed_handler()***
+2026-07-09T14:33:43+06:00 ERROR Mail send failed. Details:
+{
+    "reason": "Could not instantiate mail function.",
+    "to": [
+        "wp@wp.wp"
+    ],
+    "subject": "[kroy.com] Payment gateway \"Cash on delivery\" enabled",
+    "headers": [],
+    "attachments": []
+}
+2026-07-09T14:33:49+06:00 DEBUG Mail action ***wp_mail_failed*** triggered. Callback function :: ***ur_email_send_failed_handler()***
+2026-07-09T14:33:49+06:00 ERROR Mail send failed. Details:
+{
+    "reason": "Could not instantiate mail function.",
+    "to": [
+        "wp@wp.wp"
+    ],
+    "subject": "[kroy.com] Payment gateway \"Check payments\" enabled",
+    "headers": [],
+    "attachments": []
+}
+2026-07-10T15:23:10+06:00 DEBUG Mail action ***wp_mail_failed*** triggered. Callback function :: ***ur_email_send_failed_handler()***
+2026-07-10T15:23:10+06:00 ERROR Mail send failed. Details:
+{
+    "reason": "Could not instantiate mail function.",
+    "to": [
+        "ganpachirokamaboko@gmail.com"
+    ],
+    "subject": "User Registration & Membership: Test email from nilam.com",
+    "headers": [],
+    "attachments": []
+}
+2026-07-12T14:27:58+06:00 DEBUG Mail action ***wp_mail_failed*** triggered. Callback function :: ***ur_email_send_failed_handler()***
+2026-07-12T14:27:58+06:00 ERROR Mail send failed. Details:
+{
+    "reason": "Could not instantiate mail function.",
+    "to": [
+        "wp@wp.wp"
+    ],
+    "subject": "You have a private message from nilam.com",
+    "headers": [],
+    "attachments": []
+}
+2026-07-13T16:04:38+06:00 DEBUG Mail action ***wp_mail_failed*** triggered. Callback function :: ***ur_email_send_failed_handler()***
+2026-07-13T16:04:38+06:00 ERROR Mail send failed. Details:
+{
+    "reason": "Could not instantiate mail function.",
+    "to": [
+        "ganpachirokamaboko@gmail.com"
+    ],
+    "subject": "You recently placed a bid on Nilam.com",
+    "headers": [],
+    "attachments": []
+}
+2026-07-13T16:04:38+06:00 DEBUG Mail action ***wp_mail_failed*** triggered. Callback function :: ***ur_email_send_failed_handler()***
+2026-07-13T16:04:38+06:00 ERROR Mail send failed. Details:
+{
+    "reason": "Could not instantiate mail function.",
+    "to": [
+        "wp@wp.wp"
+    ],
+    "subject": "Bidder placed a bid on Nilam.com",
+    "headers": [],
+    "attachments": []
+}
+2026-07-13T16:08:57+06:00 DEBUG Mail action ***wp_mail_failed*** triggered. Callback function :: ***ur_email_send_failed_handler()***
+2026-07-13T16:08:57+06:00 ERROR Mail send failed. Details:
+{
+    "reason": "Invalid address:  (From): wordpress@localhost",
+    "to": [
+        "wp@wp.wp"
+    ],
+    "subject": "[Nilam.com] Please moderate: \"1967 Chevrolet Corvette Sting Ray Convertible (427\/435 HP Tri-Power)\"",
+    "headers": [],
+    "attachments": []
+}
+2026-07-13T16:19:57+06:00 DEBUG Mail action ***wp_mail_failed*** triggered. Callback function :: ***ur_email_send_failed_handler()***
+2026-07-13T16:19:57+06:00 ERROR Mail send failed. Details:
+{
+    "reason": "Could not instantiate mail function.",
+    "to": [
+        "ganpachirokamaboko@gmail.com"
+    ],
+    "subject": "Congratulations! You have won an auction on Nilam.com",
+    "headers": [],
+    "attachments": []
+}
+2026-07-13T16:19:57+06:00 DEBUG Mail action ***wp_mail_failed*** triggered. Callback function :: ***ur_email_send_failed_handler()***
+2026-07-13T16:19:57+06:00 ERROR Mail send failed. Details:
+{
+    "reason": "Could not instantiate mail function.",
+    "to": [
+        "wp@wp.wp"
+    ],
+    "subject": "Auction Product Won by User on Nilam.com",
+    "headers": [],
+    "attachments": []
+}

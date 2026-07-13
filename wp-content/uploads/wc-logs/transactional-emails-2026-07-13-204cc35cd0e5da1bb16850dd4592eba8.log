@@ -1,0 +1,4 @@
+2026-07-13T10:04:38+00:00 WARNING Email "woo_ua_email_place_bid" failed to send: Could not instantiate mail function. CONTEXT: {"email_type":"woo_ua_email_place_bid","status":"failed","recipient":"guest"}
+2026-07-13T10:04:38+00:00 WARNING Email "woo_ua_email_action_bid_intimation_admin" failed to send: Could not instantiate mail function. CONTEXT: {"email_type":"woo_ua_email_action_bid_intimation_admin","status":"failed","recipient":"wp"}
+2026-07-13T10:19:57+00:00 WARNING Email "woo_ua_email_auction_winner" failed to send: Could not instantiate mail function. CONTEXT: {"email_type":"woo_ua_email_auction_winner","status":"failed","recipient":"guest"}
+2026-07-13T10:19:57+00:00 WARNING Email "woo_ua_email_auction_winner_admin" failed to send: Could not instantiate mail function. CONTEXT: {"email_type":"woo_ua_email_auction_winner_admin","status":"failed","recipient":"wp"}

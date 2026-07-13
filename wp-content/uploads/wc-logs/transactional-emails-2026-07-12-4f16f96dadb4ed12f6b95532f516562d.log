@@ -1,0 +1,1 @@
+2026-07-12T08:27:58+00:00 WARNING Email "woo_ua_email_auction_private_msg_admin" failed to send: Could not instantiate mail function. CONTEXT: {"email_type":"woo_ua_email_auction_private_msg_admin","status":"failed","recipient":"wp"}
